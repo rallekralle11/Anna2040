@@ -1,1 +1,1 @@
-![board](F.png)
+![board](F.jpg)
