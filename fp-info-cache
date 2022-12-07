@@ -1,4 +1,4 @@
-21085694674070541
+21090704948668743
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -52479,6 +52479,13 @@ DIY
 8
 8
 DIY
+20x5_fuse_directsolder
+
+
+0
+2
+2
+DIY
 40mm_jumper
 
 
@@ -52506,6 +52513,20 @@ Mini blade fuse holder
 0
 4
 2
+DIY
+SOD323_bättre
+
+
+0
+2
+2
+DIY
+SOT-23_bättre
+
+
+0
+3
+3
 DIY
 USB-C MC-314C-4P16
 
