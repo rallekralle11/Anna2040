@@ -14,7 +14,7 @@ proper analog voltage reference
 
 3,8-32V buck converter with:
 
-low-side lossless reverse polarity protection on the all power inputs
+lossless reverse polarity protection on the all power inputs
 
 data line ESD protection
 
